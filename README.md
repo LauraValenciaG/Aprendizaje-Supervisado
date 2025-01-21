@@ -1,2 +1,2 @@
 # Aprendizaje-Supervisado
-Técnica de aprendizaje automático donde el modelo se entrena con datos etiquetados para predecir resultados precisos. Aplicable a clasificación y regresión, ofrece alta precisión con datos bien etiquetados.
+El aprendizaje supervisado es un tipo de aprendizaje automático donde el modelo se entrena con datos etiquetados. Esto significa que cada ejemplo de entrenamiento está asociado con una salida esperada o etiqueta. El objetivo del modelo es aprender a mapear las entradas con sus respectivas salidas correctas, permitiendo predecir resultados precisos para nuevos datos no vistos.
